@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingreso-egreso-app-fec4a": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-fec4a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingreso-egreso-app-fec4a"
+  }
+}
